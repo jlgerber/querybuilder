@@ -1,0 +1,19 @@
+{
+  "name": "parsing",
+  "version": "0.0.0",
+  "description": "for query",
+  "main": "parse.js",
+  "dependencies": {
+    "chai": "~2.1.2",
+    "serialijse": "~0.0.6",
+    "sinon": "~1.14.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jgerber",
+  "license": "BSD"
+}
